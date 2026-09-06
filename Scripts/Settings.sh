@@ -142,7 +142,9 @@ echo "CONFIG_PACKAGE_btop=y" >> ./.config
 # Docker
 # echo "CONFIG_PACKAGE_luci-app-docker=y" >> ./.config
 # Passwall
-# echo "CONFIG_PACKAGE_luci-app-passwall=y" >> ./.config
+echo "CONFIG_PACKAGE_luci-app-passwall=y" >> ./.config
+# Nikki (Mihomo)
+echo "CONFIG_PACKAGE_luci-app-nikki=y" >> ./.config
 # 微信推送
 # echo "CONFIG_PACKAGE_luci-app-wechatpush=y" >> ./.config
 # 广告屏蔽大师Plus
